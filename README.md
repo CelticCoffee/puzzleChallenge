@@ -19,6 +19,6 @@ The biggest challenge of this program was making sure that the closures are corr
 
 At the heart of it is the idea of taking an object that I have previously defined and given handy properties and ultimately converting it into an array that I could add CSS styling to.  
 
-The directive referenced using the API but I couldn't find any resources for how to actually access the API-- via download or CDN.  I assume that when this is a real project, that these kinds of credentials would be provided-- or clarified.
+The directive referenced using the API but while I was able to read it, I couldn't find any resources for how to actually access the API-- via download or CDN.  I assume that when this is a real project, that these kinds of credentials would be provided-- or clarified.
 
 Thanks!
