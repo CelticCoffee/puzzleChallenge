@@ -1,0 +1,122 @@
+.container {
+  background-color: #383838;
+}
+
+h1 {
+  color: white;
+}
+.centered {
+  text-align: center;
+  width: 85%;
+  background-color: gray;
+  color: gray;
+}
+
+#theVideo {
+  opacity: 0;
+  padding: .25em;
+  margin: 1em;
+  width: 75%;
+  background-color: gray;
+}
+
+#showVideo {
+  opacity: 1;
+}
+
+.movingStyle {
+  position: absolute;
+  width: 75%;
+  height: auto;
+}
+
+.hiddenClass {
+  display: none;
+}
+
+
+.lemonButton {
+  float: left;
+  padding: 0;
+  margin: .5em;
+  border: 0;
+  width: 75%;
+  height: auto;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-success {
+  width: 10em;
+}
+
+
+
+#secondVid {
+  margin-top: 1em;
+  width: 53em;
+  background-color: gray;
+  height: 30em;
+}
+
+#purpleBox {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  width: 10em;
+  height: auto;
+  margin-top: 1em;
+  margin-right: .5em;
+  padding: 0em;
+  background-color: purple;
+  color: white;
+  border: 1px solid black;
+}
+
+
+#purpleBox .hiddenAnswers img {
+  /*opacity: 0.1;*/
+}
+
+.dimIt {
+  border: 2px dotted white;
+}
+
+.movingStyle {
+  position: absolute;
+  width: 10em
+  height: 10em;
+}
+
+
+
+.reveal  {
+  opacity: 1;
+}
+
+.silly {
+  border: 3px solid green;
+}
+
+.red {
+  border: 3px solid red;
+}
+
+.finalWrong{
+  background-color: red;
+}
+
+.finalRight {
+  background-color: green;
+  opacity: 0.5;
+}
+
+.allCorrect {
+  opacity: 0.5;
+}
